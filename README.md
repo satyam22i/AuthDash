@@ -83,12 +83,13 @@ JWT_SECRET=your_super_secret_key
 Start the both Server (Frontend and Backend)
 
 
-Developed by:
-Satyam Shrivastava
-IIT Patna
 
-Role: Full-Stack Web Developer
-Tech Stack: React, Node.js, Express.js, PostgreSQL, Tailwind CSS
+**Developed by:**  
+**Satyam Shrivastava**  
+**IIT Patna**
 
-📧 Email: satyamkum2020@gmail.com
-🌐 Location: India
+**Role:** Full-Stack Web Developer  
+**Tech Stack:** React, Node.js, Express.js, PostgreSQL, Tailwind CSS
+
+📧 **Email:** satyamkum2020@gmail.com   
+🌐 **Location:** India
