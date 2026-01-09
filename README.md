@@ -6,7 +6,7 @@
 A robust Full Stack Web Application built for the **Frontend Developer Intern Task**. This application features secure JWT authentication, a responsive dashboard, and full CRUD capabilities for managing tasks.
 
 ## 🔗 Live Demo
-**[CLICK HERE TO VIEW DEPLOYED PROJECT](https://auth-dash-sable.vercel.app/login)** *(Replace the text above with your Vercel/Render/Netlify link)*
+**[CLICK HERE TO VIEW DEPLOYED PROJECT](https://auth-dash-sable.vercel.app/)** *(Replace the text above with your Vercel/Render/Netlify link)*
 
 ---
 
